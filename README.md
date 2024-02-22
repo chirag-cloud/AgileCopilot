@@ -1,4 +1,4 @@
-# AgileCopilot
+# Agile Copilot
 Agile CoPilot revolutionizes project management by seamlessly integrating Prompt Engineering with the advanced capabilities of GPT-3.5 Turbo. 
 At its core, Agile CoPilot harnesses the power of GPT-3.5 Turbo, an advanced language model developed by OpenAI, to understand and interpret complex queries related to agile methodologies, project management practices, and team collaboration dynamics. Through prompt engineering, we've tailored GPT-3.5 Turbo to efficiently navigate through vast amounts of project data, ensuring precise and contextually relevant responses.
 
