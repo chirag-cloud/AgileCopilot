@@ -6,8 +6,8 @@ The heart of Agile CoPilot lies in its ability to streamline decision-making pro
 
 Key Features:
 
-Prompt Engineering: Fine-tuned prompts ensure GPT-3.5 Turbo comprehensively understands agile-related inquiries.
-Data-Driven Responses: Leveraging project data, Agile CoPilot delivers accurate and personalized responses tailored to the specific needs of the user.
-Real-Time Assistance: Instantaneous feedback empowers teams to make informed decisions swiftly, optimizing workflow efficiency.
+1. Prompt Engineering: Fine-tuned prompts ensure GPT-3.5 Turbo comprehensively understands agile-related inquiries.
+2. Data-Driven Responses: Leveraging project data, Agile CoPilot delivers accurate and personalized responses tailored to the specific needs of the user.
+3. Real-Time Assistance: Instantaneous feedback empowers teams to make informed decisions swiftly, optimizing workflow efficiency.
 Seamless Integration: Agile CoPilot seamlessly integrates into existing agile project management frameworks, enhancing rather than disrupting established workflows.
-User-Friendly Interface: Hosted on Flask, the platform offers an intuitive and accessible interface, making it effortless for teams to leverage its capabilities.
+4. User-Friendly Interface: Hosted on Flask, the platform offers an intuitive and accessible interface, making it effortless for teams to leverage its capabilities.
